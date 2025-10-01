@@ -7,7 +7,7 @@
 
 ##  What’s This Project About?
 
-This is a simple **Pharmacy System** built in Java as part of my Object-Oriented Programming course. The system helps manage medicines in a pharmacy — adding new ones, updating info, and keeping everything organized.
+This is a simple **Pharmacy System** built in Java as part of my Object-Oriented Programming course. The system helps manage medicines in a pharmacy, adding new ones, updating info, and keeping everything organized.
 
 It’s a menu-based program that uses **Object-Oriented Programming concepts** like inheritance, encapsulation, and polymorphism to make the system clean and easy to expand.
 
@@ -17,17 +17,17 @@ It’s a menu-based program that uses **Object-Oriented Programming concepts** l
 
 The project uses a **main file** that shows a menu for the user and connects to different classes that handle medicines. There are three main types of files:
 
-1. **OOP_Project.java** — This is where the program starts. It shows a menu to the user and calls functions from other classes.
+1. **OOP_Project.java** : This is where the program starts. It shows a menu to the user and calls functions from other classes.
 
-2. **Medicine.java** — This is the main blueprint for any medicine. It includes:
+2. **Medicine.java** : This is the main blueprint for any medicine. It includes:
 
    * Name, composition, dose, price, quantity
    * Getters and setters to read or change info
    * Methods to display medicine details and compare medicines
 
-3. **OverTheCounter.java** — For medicines you can buy without a prescription.
+3. **OverTheCounter.java** : For medicines you can buy without a prescription.
 
-4. **Prescription.java** — For medicines that need a prescription.
+4. **Prescription.java** : For medicines that need a prescription.
 
 ---
 
@@ -52,7 +52,7 @@ Working on this project helped me:
 
 ---
 
-## 🚀 How to Run It
+##  How to Run It
 
 1. Clone the repo:
 
